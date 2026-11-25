@@ -1,0 +1,74 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:27:49.231Z",
+  "slug": "kandkdesigns",
+  "name": "K & K Designs",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Architects & designers",
+    "niche": "architects & designers",
+    "group": "Professional services"
+  },
+  "contact": {
+    "phone": "+64211037675",
+    "email": "katrina@kandkdesigns.co.nz",
+    "address": "9 Bannister Pl, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/384484531911507"
+  },
+  "about": {
+    "overview": "Christchurch Website Designer & Graphic Designer in New Zealand. Specialising in Web and Website Design, Print Design & Graphic Design | TWS Group Web Design"
+  },
+  "before": {
+    "url": "https://www.kandkdesigns.co.nz/",
+    "domain": "kandkdesigns.co.nz",
+    "finalUrl": "https://www.kandkdesigns.co.nz/",
+    "title": "K&K Designs",
+    "pages": 8,
+    "score": 86,
+    "assessedAt": "2026-11-22T12:51:44.633Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "flash",
+        "title": "Uses Flash content",
+        "evidence": "Flash is unsupported in all modern browsers."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "slow",
+        "title": "Slow to respond",
+        "evidence": "Server took 9.4s to respond."
+      },
+      {
+        "id": "img-alt",
+        "title": "Images missing descriptions",
+        "evidence": "5 of 5 images have no alt text (accessibility and SEO)."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/k-k-designs/",
+    "repoUrl": "https://github.com/tova-studio/k-k-designs",
+    "generator": "claude",
+    "accent": "#df694d",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:27:49.231Z"
+  }
+}
